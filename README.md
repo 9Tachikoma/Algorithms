@@ -1,2 +1,2 @@
 # Algorithms
-记录学习cousera网课Algorithms的笔记
+经典红宝书
